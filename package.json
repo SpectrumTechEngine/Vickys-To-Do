@@ -1,6 +1,6 @@
 {
   "name": "vickys-lists",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "description": "Vicky's To Do's and To Don'ts, a clay notepad app for Android.",
   "scripts": {
