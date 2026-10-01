@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Vicky\'s Lists</string>
+    <string name="title_activity_main">Vicky\'s Lists</string>
+    <string name="package_name">com.spectrumtechengine.vickyslists</string>
+    <string name="custom_url_scheme">com.spectrumtechengine.vickyslists</string>
+</resources>

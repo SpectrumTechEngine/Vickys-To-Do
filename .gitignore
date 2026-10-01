@@ -1,0 +1,14 @@
+# Dependencies and generated files
+node_modules/
+www/
+
+# Built app (share it through a GitHub Release instead)
+*.apk
+*.aab
+
+# Local backup of the pre-APK version
+vickys-lists.original.html
+
+# Signing keys must never be committed
+*.jks
+*.keystore

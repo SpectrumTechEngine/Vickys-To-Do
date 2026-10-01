@@ -1,0 +1,19 @@
+{
+  "appId": "com.spectrumtechengine.vickyslists",
+  "appName": "Vicky's Lists",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#e7d4c4"
+  },
+  "plugins": {
+    "SystemBars": {
+      "insetsHandling": "native",
+      "initialViewportFitValueHint": "cover",
+      "style": "DARK"
+    },
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_vicky",
+      "iconColor": "#C4845A"
+    }
+  }
+}
